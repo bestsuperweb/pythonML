@@ -1,2 +1,3 @@
 # python
  
+This is sample codes for python machine learning...
